@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f74f4638fcfc041f360a01628ab864d1:289a291287ae9485b5533f81d8f3524f:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png">
+    <SubTexture name="deer_01" x="1757" y="2" width="254" height="201" frameX="-26" frameY="-58" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_02" x="1551" y="2" width="204" height="202" frameX="-33" frameY="-65" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_03" x="1358" y="2" width="191" height="207" frameX="-35" frameY="-59" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_04" x="1135" y="2" width="221" height="197" frameX="-13" frameY="-69" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_05" x="858" y="2" width="275" height="193" frameX="-13" frameY="-58" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_06" x="580" y="2" width="276" height="203" frameX="-9" frameY="-55" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="parrot_01" x="378" y="2" width="200" height="87" frameX="-53" frameY="-115" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="parrot_02" x="200" y="2" width="176" height="98" frameX="-77" frameY="-109" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="parrot_03" x="2" y="2" width="196" height="87" frameX="-57" frameY="-115" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>
